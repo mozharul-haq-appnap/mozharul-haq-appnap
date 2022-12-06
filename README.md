@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mozharul-haq-appnap
 - 👀 I’m interested in Full stack development, Machine learning
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me mozharul.haq@appnap.io
+- 📫 How to reach me:- mozharul.haq@appnap.io
 
 <!---
 mozharul-haq-appnap/mozharul-haq-appnap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
