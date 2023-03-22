@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mozharul-haq-appnap
 - 👀 I’m interested in Full stack development, Machine learning
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently working with Laravel
 - 📫 How to reach me:- mozharul.haq@appnap.io
 
 <!---
